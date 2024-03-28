@@ -1,0 +1,188 @@
+    1  git clone
+    2  git status
+    3  git push
+    4  git add file notebook.ipny
+    5  git add ..
+    6  git add .
+    7  cd
+    8  mkdir my_name_is_koketso
+    9  cd outer_dir
+   10  mkdir outer_dir
+   11  cd outer_dir
+   12  cd my_name_is_koketso
+   13  mkdir my_name_is_koketso
+   14  cd my_name_is_koketso
+   15  git init
+   16  git add notebook.ipynb
+   17  git init
+   18  git status
+   19  git push -u origin main
+   20  ls -la
+   21  git status
+   22  git add data.csv 
+   23  git status
+   24  git init
+   25  get add.
+   26  git add.
+   27  git add
+   28  git add .
+   29  git status
+   30  git remote add [200~Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   31  git remote add origin Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   32  git remote -v
+   33  git push -u origin master
+   34  git remote add origin  Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.
+   35  git push -u origin master
+   36  git remote add origin [200~^[[200~Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python/tree/Itskoketso-patc
+   37  git remote add origin Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python/tree/Itskoketso-patch-1
+   38  git remote add origin Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   39  git remote add origin Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python/tree/Itskoketso-patch-1
+   40  git remote add origin https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   41  git add remote origin Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   42  gir add remote origin https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.git
+   43  git add remote origin https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.git
+   44  git remote add origin https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.git
+   45  git remote -v
+   46  git push -u origin master
+   47  git push -u origin main
+   48  git branch
+   49  git push origin Itskoketso-patch-1
+   50  cd
+   51  git status
+   52  git status
+   53  git add .
+   54  git commit -m
+   55  git push origin Itskoketso-patch-1
+   56  git push origin master
+   57  git status
+   58  git add .
+   59  git commit -m "Made the requested changes"
+   60  git config -- username itskoketso@gmail.com
+   61  git config -- global user.email itskoketso@gmail.com
+   62  git config --global user.email itskoketso@gmail.com
+   63  git config --global user.name "Koketso Mashaba"
+   64  git config --list
+   65  git status
+   66  git commit -m "Made requested changes"
+   67  git push origin Itskoketso-patch-1
+   68  git push origin master
+   69  git push --set-upstream origin Itskoketso-patch-1
+   70  git push origin master
+   71  git clone https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.git
+   72  git branch
+   73  cd [200~ https://github.com/Umuzi-org/Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python.git
+   74  cd Koketso-Mashaba-648-bootcamp-exploratory-data-analysis-python
+   75  git branch
+   76  git check out Itskoketso-patch-1
+   77  git checkout Itskoketso-patch-1
+   78  git add .
+   79  git commit -m "Made requested changes"
+   80  git push origin Itskoketso-patch-1
+   81  git status
+   82  git add .
+   83  git clone https://github.com/Umuzi-org/Koketso-Mashaba-219-level-1-programming-katas-python.git
+   84  git branch
+   85  cd 
+   86  git clone https://github.com/Umuzi-org/Koketso-Mashaba-219-level-1-programming-katas-python.git
+   87  cd Koketso-Mashaba-219-level-1-programming-katas-python
+   88  git branch
+   89  git checkout -b level-1-coding-challenges
+   90  git branch
+   91  git add .
+   92  git commit "Task 1 - Printing out sum of multiples."
+   93  git commit -m "Task 1 - Printing out sum of multiples."
+   94  git add .
+   95  git history
+   96  git log
+   97  git add .
+   98  git commit -m "Task 2 - Checking if either of two intergers is 3 or contains 3."
+   99  git add .
+  100  git commit -m "Task 3 - Checking if either on two integers is 65 or the sum thereof is 65."
+  101  git add .
+  102  git commit -m "Task 4 - inputs an integer and print a square using #."
+  103  git add .
+  104  git commit -m "Task 5 - inputs an a negative or positive integer and prints a triangle using #."
+  105  git add .
+  106  git commit -m "Task 6 - a function that takes inputs an array/list of strings and then prints out the longest one/s."
+  107  git add .
+  108  git commit -m "Task 7 - a function that combines two lists/arrays by taking alternate elements and returns the result."
+  109  git log
+  110  git push --set-upstream origin level-1-coding-challenges
+  111  gti add .
+  112  git add .
+  113  git commit -m "Added title, removed comments, added gitignore, added libraries to requirements.txt"
+  114  git push origin Itskoketso-patch-1
+  115  git add .
+  116  git commit -m "Added gitignore file"
+  117  git push origin level-1-coding-challenges
+  118  git clone https://github.com/Umuzi-org/Koketso-Mashaba-958-contentitem-python.git
+  119  git clone https://github.com/Umuzi-org/Koketso-Mashaba-958-contentitem-python.git
+  120  git add .
+  121  git status
+  122  cd Koketso-Mashaba-958-contentitem-python
+  123  git add .
+  124  git commit -m "Assert statements"
+  125  git push origin main
+  126  git branch assertive-programming-helpers-for-pandas
+  127  git push origin assertive-programming-helpers-for-pandas
+  128  mkdir git-basic-exercises
+  129  cd git-basic-exercises
+  130  ls -a
+  131  git init
+  132  ls -a
+  133  git status
+  134  touch README.d
+  135  ls -a
+  136  git status
+  137  git log
+  138  git add
+  139  git add .
+  140  git status
+  141  git reset README.md
+  142  git reset README.d
+  143  git status
+  144  git add .
+  145  git commit -m "initial commit"
+  146  git log
+  147  q
+  148  git log q
+  149  nano README.md
+  150  cat README.md
+  151  git status
+  152  git commit -m "second commit"
+  153  git add .
+  154  git commit -m "second commit"
+  155  nano README.md
+  156  git status
+  157  git add .
+  158  git commit -m "third commit"
+  159  git log
+  160  q
+  161  git checkout commit fbf1864fac326556578a09e7f767ac49e0db0b0f
+  162  git checkout fbf1864fac326556578a09e7f767ac49e0db0b0f
+  163  cat README.md
+  164  git checkout main
+  165  git checkout master
+  166  cat README.md
+  167  git branch milkshake-flavours
+  168  git branch
+  169  git branch master
+  170  git branch choc-flavour
+  171  git branch
+  172  cd milkshake-flavours
+  173  git branch milkshake-flavours
+  174  git branch
+  175  nano milkshakes.md
+  176  git status
+  177  git checkout milkshake-flavours
+  178  git add .
+  179  git commit -m "added initial flavours"
+  180  git log
+  181  git branch history
+  182  git checkout history
+  183  git log
+  184  git branch
+  185  git branch -d choc-flavour
+  186  git log
+  187  git branch
+  188  history > history.txt
